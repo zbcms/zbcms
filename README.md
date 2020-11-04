@@ -1,4 +1,6 @@
-### Hi there 👋
+### 装备CMS  👋
+
+- 💬 是一套简洁易用的php建站系统，暂未开放，目前正公测中，敬请期待， www.zbcms.com
 
 <!--
 **zbcms/zbcms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
