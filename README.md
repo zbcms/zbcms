@@ -1,3 +1,6 @@
+### 已转至 rustcms.com 
+因 rust 更出色，所以项目转为 rust 开发
+
 ### 装备CMS  👋
 
 - 💬 是一套简洁易用的php建站系统，暂未开放，目前正公测中，敬请期待， www.zbcms.com
